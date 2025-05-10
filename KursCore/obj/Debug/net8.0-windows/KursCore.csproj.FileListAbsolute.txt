@@ -20,3 +20,4 @@ C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0-windo
 C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0-windows\refint\KursCore.dll
 C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0-windows\KursCore.pdb
 C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0-windows\ref\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0-windows\KursCore.sourcelink.json

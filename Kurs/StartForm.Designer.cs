@@ -40,10 +40,8 @@ namespace Kurs
             label7 = new Label();
             label8 = new Label();
             label9 = new Label();
-            pictureBox1 = new PictureBox();
             btnCloseProgram = new Button();
             button2 = new Button();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -136,14 +134,6 @@ namespace Kurs
             label9.TabIndex = 8;
             label9.Text = "Минск 2025";
             // 
-            // pictureBox1
-            // 
-            pictureBox1.Location = new Point(28, 302);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(326, 311);
-            pictureBox1.TabIndex = 9;
-            pictureBox1.TabStop = false;
-            // 
             // btnCloseProgram
             // 
             btnCloseProgram.BackColor = SystemColors.MenuHighlight;
@@ -177,7 +167,6 @@ namespace Kurs
             ClientSize = new Size(833, 742);
             Controls.Add(button2);
             Controls.Add(btnCloseProgram);
-            Controls.Add(pictureBox1);
             Controls.Add(label9);
             Controls.Add(label8);
             Controls.Add(label7);
@@ -189,7 +178,6 @@ namespace Kurs
             Controls.Add(label1);
             Name = "StartForm";
             Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -205,7 +193,6 @@ namespace Kurs
         private Label label7;
         private Label label8;
         private Label label9;
-        private PictureBox pictureBox1;
         private Button btnCloseProgram;
         private Button button2;
     }

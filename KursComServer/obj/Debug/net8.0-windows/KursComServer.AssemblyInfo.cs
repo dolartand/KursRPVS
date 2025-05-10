@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KursComServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da143b08443b90dd831bae49225248baebf898a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("KursComServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KursComServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
