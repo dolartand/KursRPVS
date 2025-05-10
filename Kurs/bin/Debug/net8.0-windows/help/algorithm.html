@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Суть метода</title>
+    <style>body{font-family:Segoe UI; padding:20px;} pre{background:#f4f4f4; padding:10px;} a{color:#0066cc;}</style>
+</head>
+<body>
+    <h1>Суть метода наименьших квадратов</h1>
+    <p>Метод наименьших квадратов позволяет найти прямую <strong>y = a·x + b</strong>, которая лучше всего аппроксимирует набор точек (<em>x<sub>i</sub>, y<sub>i</sub></em>). Формулы для коэффициентов:</p>
+    <pre>a = (N·Σ(x<sub>i</sub>·y<sub>i</sub>) - Σx<sub>i</sub>·Σy<sub>i</sub>) / (N·Σ(x<sub>i</sub><sup>2</sup>) - (Σx<sub>i</sub>)<sup>2</sup>)
+
+b = (Σy<sub>i</sub> - a·Σx<sub>i</sub>) / N</pre>
+    <p>Где <em>N</em> — число точек, а <em>Σ</em> обозначает суммирование по всем точкам.</p>
+    <p>Алгоритм в программе:</p>
+    <ol>
+        <li>Считать массив <em>DataX</em> и <em>DataY</em>.</li>
+        <li>Вычислить суммы: Σx, Σy, Σx², Σ(x·y).</li>
+        <li>Подставить в формулы и получить <em>a</em> и <em>b</em>.</li>
+    </ol>
+    <p><a href="index.html">← Назад</a></p>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursComServer.comhost.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursComServer.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursComServer.deps.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursComServer.runtimeconfig.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursComServer.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Release\net8.0-windows\win-x64\publish\KursCore.pdb

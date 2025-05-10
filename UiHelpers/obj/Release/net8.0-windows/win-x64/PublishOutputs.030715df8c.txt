@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\publish\UIHelpers.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\publish\UIHelpers.deps.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\publish\UIHelpers.pdb

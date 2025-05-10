@@ -1,0 +1,86 @@
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.exe
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.deps.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.runtimeconfig.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Azure.Core.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Azure.Identity.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\System.Windows.Forms.DataVisualization.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Office.Interop.Word.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Office.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\UIHelpers.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\KursCore.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\UIHelpers.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.MainForm.resources
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.Properties.Resources.resources
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.StartForm.resources
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.Up2Date
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\refint\Kurs.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\ref\Kurs.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.exe
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.deps.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.runtimeconfig.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Kurs.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Azure.Core.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Azure.Identity.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\System.Windows.Forms.DataVisualization.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Office.Interop.Word.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Office.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\UIHelpers.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\KursCore.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\bin\Release\net8.0-windows\win-x64\UIHelpers.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.MainForm.resources
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.Properties.Resources.resources
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.StartForm.resources
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.csproj.Up2Date
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\refint\Kurs.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\Kurs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\Kurs\obj\Release\net8.0-windows\win-x64\ref\Kurs.dll

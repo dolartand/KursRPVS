@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\UIHelpers.deps.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\UIHelpers.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\UIHelpers.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.AboutForm.resources
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.HelpForm.resources
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\refint\UIHelpers.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\ref\UIHelpers.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\UIHelpers.deps.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\UIHelpers.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\bin\Release\net8.0-windows\win-x64\UIHelpers.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.AboutForm.resources
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.HelpForm.resources
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\refint\UIHelpers.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\UIHelpers.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\UIHelpers\obj\Release\net8.0-windows\win-x64\ref\UIHelpers.dll

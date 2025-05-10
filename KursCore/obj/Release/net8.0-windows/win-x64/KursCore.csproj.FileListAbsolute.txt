@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\bin\Release\net8.0-windows\win-x64\KursCore.deps.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\bin\Release\net8.0-windows\win-x64\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\bin\Release\net8.0-windows\win-x64\KursCore.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\refint\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\ref\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\bin\Release\net8.0-windows\win-x64\KursCore.deps.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\bin\Release\net8.0-windows\win-x64\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\bin\Release\net8.0-windows\win-x64\KursCore.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\refint\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\KursCore.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursCore\obj\Release\net8.0-windows\win-x64\ref\KursCore.dll

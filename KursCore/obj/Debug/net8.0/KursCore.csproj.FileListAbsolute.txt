@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\bin\Debug\net8.0\KursCore.deps.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\bin\Debug\net8.0\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\bin\Debug\net8.0\KursCore.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\KursCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\KursCore.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\KursCore.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\KursCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\refint\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\KursCore.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursCore\obj\Debug\net8.0\ref\KursCore.dll

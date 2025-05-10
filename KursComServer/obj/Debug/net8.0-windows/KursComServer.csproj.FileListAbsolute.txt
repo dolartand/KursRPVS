@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.comhost.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.deps.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.runtimeconfig.json
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursCore.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursCore.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComS.9D53DF64.Up2Date
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\refint\KursComServer.dll
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.pdb
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.genruntimeconfig.cache
+C:\Users\Admin\Desktop\2\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\ref\KursComServer.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.comhost.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.deps.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.runtimeconfig.json
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursComServer.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursCore.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\bin\Debug\net8.0-windows\KursCore.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComS.9D53DF64.Up2Date
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\refint\KursComServer.dll
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.pdb
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\KursComServer.genruntimeconfig.cache
+C:\Users\Admin\Desktop\2 курс\RPVS\Labs\Kurs\KursComServer\obj\Debug\net8.0-windows\ref\KursComServer.dll
